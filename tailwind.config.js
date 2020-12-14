@@ -4,6 +4,8 @@
  ** Docs: https://tailwindcss.com/docs/configuration
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
+import tailwindTypography from '@tailwindcss/typography'
+
 const { colors } = require('tailwindcss/defaultTheme')
 const primaryColor = 'purple'
 const accentColor = 'yellow'
@@ -23,6 +25,7 @@ module.exports = {
     },
   },
   variants: {},
+  plugins: [tailwindTypography],
   purge: {
     enabled: process.env.NODE_ENV === 'production',
     content: [
