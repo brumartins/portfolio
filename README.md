@@ -1,5 +1,9 @@
 # Portfolio
 
+## Introduction
+
+My personal website, built with NuxtJS and hosted on Netlify. [Check it out!](https://brunomartins.netlify.app/) 😁
+
 ## Build Setup
 
 ```bash
@@ -16,5 +20,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
