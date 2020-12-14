@@ -1,3 +1,8 @@
+---
+title: Bruno Martins • Développeur Full Stack
+description: Découvrez Bruno Martins, développeur Full Stack et adepte des technologies ASP.NET Core et VueJS.
+---
+
 ### Introduction
 
 Bonjour, je m'appelle Bruno Martins et je suis **développeur Full Stack** depuis près de 6 ans.

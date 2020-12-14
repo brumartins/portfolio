@@ -27,5 +27,21 @@ export default Vue.extend({
       socialPage,
     }
   },
+
+  head() {
+    return {
+      title: (this as any).introductionPage.title,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: (this as any).introductionPage.description,
+        },
+      ],
+      htmlAttrs: {
+        lang: this.$i18n.locale,
+      },
+    }
+  },
 })
 </script>
