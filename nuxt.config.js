@@ -34,10 +34,18 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // https://i18n.nuxtjs.org/
+    'nuxt-i18n',
   ],
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
   content: {},
+
+  // i18n module configuration (https://i18n.nuxtjs.org/basic-usage)
+  i18n: {
+    locales: ['en', 'fr'],
+    defaultLocale: 'en',
+  },
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
