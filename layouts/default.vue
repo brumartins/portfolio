@@ -1,5 +1,6 @@
 <template>
-  <div>
+  <div class="max-w-screen-lg mx-auto">
+    <TheHeader></TheHeader>
     <Nuxt />
   </div>
 </template>

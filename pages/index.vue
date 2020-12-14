@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <h1>Bruno Martins</h1>
-  </div>
+  <div></div>
 </template>
 
 <script lang="ts">
