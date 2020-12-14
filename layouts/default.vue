@@ -1,7 +1,9 @@
 <template>
-  <div class="max-w-screen-lg mx-auto">
+  <div class="max-w-screen-md mx-auto">
     <TheHeader></TheHeader>
-    <Nuxt />
+    <main class="mx-3">
+      <Nuxt />
+    </main>
   </div>
 </template>
 
