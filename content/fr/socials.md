@@ -1,4 +1,3 @@
-### Où me trouver
+### Find me
 
-Si vous souhaitez parler **développement logiciel** ou tout simplement faire une petite **partie d'échecs**,
-vous pouvez me retrouver sur les réseaux suivants. A très bientôt ! 😉
+If you want to talk about **software development** or just play a chess game, you can find me on the following networks. See you soon !😉
