@@ -43,8 +43,8 @@ export default {
 
   // i18n module configuration (https://i18n.nuxtjs.org/basic-usage)
   i18n: {
-    locales: ['fr'],
-    defaultLocale: 'fr',
+    locales: ['en'],
+    defaultLocale: 'en',
   },
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
